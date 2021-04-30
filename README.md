@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SykesZachary
+- 👋 Hi, I’m @SykesZachary, but you can call me Zach
 - I’m interested in Bioinformatics and Computational Biology
 - I’m currently learning various python packages from biopython, to pygame, and boto3 to better familiarize myself with how AWS can interface with programming. 
   I'm also learning Docker and brushing up on my SQL
